@@ -1,0 +1,8 @@
+models/*
+preds/*
+wandb/*
+data/*
+__pycache__
+.ipynb_checkpoints
+*mid
+
